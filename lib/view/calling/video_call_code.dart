@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../constant/colors.dart';
-import '../controller/call_controller.dart';
+import '../../constant/colors.dart';
+import '../../controller/call_controller.dart';
 
 class VideoCallCode extends StatelessWidget {
   const VideoCallCode({

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:zego_cloud/constant/textchat_info.dart';
-import 'package:zego_cloud/view/home_page.dart';
+import 'package:zego_cloud/view/home/home_page.dart';
 import 'package:zego_zimkit/zego_zimkit.dart';
 
 void main() {

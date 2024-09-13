@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:zego_cloud/constant/colors.dart';
 import 'package:zego_zimkit/zego_zimkit.dart';
-import '../controller/chat_controller.dart';
+import '../../controller/chat_controller.dart';
 class ChatView extends StatelessWidget {
   final ChatController chatController = Get.put(ChatController());
 

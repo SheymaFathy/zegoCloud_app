@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:zego_cloud/view/chat_view.dart';
 import 'package:zego_zimkit/zego_zimkit.dart';
-import '../constant/colors.dart';
+import '../../constant/colors.dart';
+import 'chat_view.dart';
 
 
 class LoginPage extends StatefulWidget {
